@@ -87,7 +87,7 @@ def main():
     # url_list = get_links(num)
     # for url in url_list:
     #     transcript = scrape_speech(url)
-    #     print(*transcript, sep='\n')
+    #     write_txt(transcript)
     
 
 if __name__ == '__main__':
