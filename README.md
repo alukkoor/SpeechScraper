@@ -1,2 +1,2 @@
 # SpeechScraper
-Speech transcript scraper for UCLA DataRes coronavirus article. Scrapes speeches from US governors.
+Speech transcript scraper for UCLA DataRes article. Scrapes speeches from US governors.
